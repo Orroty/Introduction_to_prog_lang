@@ -1,1 +1,7 @@
-# Introduction_to_prog_lang
+### Самусь Дмитрий Сергеевич
+
+#Знакомство с языками программирования
+
+Завершил первое домашнее задание. Щно находится в папке ***Homework\Homework1\Program.cs***
+
+Использую не Visual Studio Code, а Visual Studio 2022.
