@@ -37,7 +37,7 @@ int secondСharacterOfNumber(int Number)
 
 
 
-//  тело прокраммы
+//  тело программы
 
 if (insertOfOneNumber( out firstNumber1))
 {
@@ -83,7 +83,7 @@ int thirdСharacterOfNumberFromBegining(int Number)
     }
 }
 
-//  тело прокраммы
+//  тело программы
 
 if (insertOfOneNumber(out firstNumber1))
 {
@@ -108,7 +108,7 @@ Console.WriteLine("Задача 15: Напишите программу, кот�
 //1 -> нет
 
 
-//  функция 2
+//  функция 3
 
 //      проверка на интервал 1 - 7
 bool isInInterval(int numer)
@@ -122,11 +122,10 @@ bool isADayOff(int numer)
     return numer >= 1 && numer <= 5;
 }
 
-//  тело прокраммы
+//  тело программы
 
 if (insertOfOneNumber(out firstNumber1))
 {
-   // var c = isInInterval(firstNumber1) ? ((isADayOff(firstNumber1) ? "не" : "") + " является выходным") : " не входит в интервал";
     Console.WriteLine(firstNumber1 + (isInInterval(firstNumber1) ? ((isADayOff(firstNumber1) ? " не" : "") + " является выходным") : " не входит в интервал"));
 
 }
