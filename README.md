@@ -2,6 +2,6 @@
 
 # Знакомство с языками программирования
 
-Третья практика/семинар. Оно находится в папке ***Practice\Seminar3\Program.cs***
+Завершил третье домашнее задание. Оно находится в папке ***Homework\Homework3\Program.cs***
 
 Использую не Visual Studio Code, а Visual Studio 2022.
