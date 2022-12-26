@@ -2,6 +2,6 @@
 
 # Знакомство с языками программирования
 
-Седьмая практика/семинар. Она находится в папке ***Practice/Seminar7/Program.cs***
+Завершил седьмое домашнее задание. Она находится в папке ***Homework/Homework7/Program.cs***
 
 Использую не Visual Studio Code, а Visual Studio 2022.
