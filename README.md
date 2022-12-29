@@ -3,6 +3,6 @@
 # Знакомство с языками программирования
 
 
-Восьмая практика/семинар. Она находится в папке ***Practice/Seminar8/Program.cs*** + Завершил восьмое домашнее задание. Она находится в папке ***Homework/Homework8/Program.cs***
+Девятая практика/семинар. Она находится в папке ***Practice/Seminar9/Program.cs*** + Завершил девятое домашнее задание. Она находится в папке ***Homework/Homework9/Program.cs***
 
 Использую не Visual Studio Code, а Visual Studio 2022.
